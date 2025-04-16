@@ -1,0 +1,42 @@
+/* Basic Reset */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif; /* Default font */
+}
+
+/* Styling the header */
+#main-header {
+    background-color: #4CAF50; /* Green background */
+    color: white; /* White text */
+    padding: 20px; /* Padding inside the header */
+    text-align: center; /* Centered text */
+}
+
+/* Styling the content section */
+.content {
+    margin: 20px; /* Margin outside the content */
+    padding: 15px; /* Padding inside the content */
+    border: 2px solid #ccc; /* Light gray border */
+    border-radius: 5px; /* Rounded corners */
+}
+
+/* Styling the image */
+.styled-image {
+    display: block; /* Block display */
+    margin: 20px auto; /* Center the image with margin */
+    border: 5px solid #4CAF50; /* Green border around the image */
+    border-radius: 10px; /* Rounded corners for the image */
+}
+
+/* Styling the footer */
+.footer {
+    background-color: #f1f1f1; /* Light gray background */
+    text-align: center; /* Centered text */
+    padding: 10px; /* Padding inside the footer */
+    position: relative; /* Positioning */
+    bottom: 0; /* Align to the bottom */
+    width: 100%; /* Full width */
+    margin-top: 20px; /* Margin above the footer */
+    font-family: 'Courier New', Courier, monospace; /* Different font for footer */
+}
